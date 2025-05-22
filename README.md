@@ -17,9 +17,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
 </p>
+
 -----
 | Cursos | Certificados |
-|---------|--------------|
+|--------|--------------|
+| Github |  [Certificado](https://hermes.dio.me/certificates/GTCHCRQB.pdf)|
+
+
+-----
+![Thiago Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago2403&show_icons=true&theme=dark)
 
 <!--
 **Thiago2403/Thiago2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
