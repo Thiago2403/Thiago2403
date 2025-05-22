@@ -1,8 +1,11 @@
 ## Sejam Bem-Vindos ao meu mundo  
 <p align="center">
+
 ![Gif do Gatinho](https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif)
------------
+
 </p>
+
+-----------
 👽 Ola, me chamo Thiago Sousa!
 
 💬 Sou estudante de Engenharia da Computação.
