@@ -12,10 +12,15 @@
 -----------
 
 ## Minhas Tecnologias
+<p align="center">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
+</p>
+-----
+| Cursos | Certificados |
+|---------|--------------|
 
-![C](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg)
-
-<img src>
 <!--
 **Thiago2403/Thiago2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
