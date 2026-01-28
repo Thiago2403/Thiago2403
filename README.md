@@ -1,16 +1,19 @@
-## Sejam Bem-Vindos ao meu mundo  
-<p align="center">
+## Sejam Bem-Vindos ao meu portfolio  
+<p align="center", width = "100">
 
-![Gif do Gatinho](https://media.tenor.com/OKLkZ1Um5HIAAAAM/mad-typing.gif)
+![Darth Vader Ready](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+
 
 </p>
 
 -----------
-👽 Ola, me chamo Thiago Sousa!
+👽 Olá! Eu sou o Thiago
 
-💬 Sou estudante de Engenharia da Computação.
+Sou estudante de Engenharia da Computação, atualmente no 5º semestre na FACENS, e estou em busca de uma oportunidade no mercado de trabalho como desenvolvedor.
 
-📫 [Acesse o meu Linkedin](https://www.linkedin.com/in/thiago-sousa-delphino-914649220/)
+Tenho interesse em desenvolvimento de software e estou constantemente aprimorando meus conhecimentos por meio de projetos práticos, estudos e desafios técnicos.
+
+ [LinkdIn](https://www.linkedin.com/in/thiago-sousa-delphino-914649220/)
 
 -----------
 
@@ -19,17 +22,25 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="100px">
-<img src="[https://cdn-icons-png.flaticon.com/512/226/226777.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD9JuNzZJyr6qOuiMm9VfuxzT4IMnAwllvoA&s)" width="100px">
+<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="100px">
 </p>
 
 -----
-| Cursos | Certificados |
-|--------|--------------|
-| Github |  [Certificado](https://hermes.dio.me/certificates/GTCHCRQB.pdf)|
 
+### 🤖 Learning Dashboard (DIO)
+[![Java](https://img.shields.io/badge/Java-Cursando-orange)](https://hermes.dio.me/certificates/UCQYDXX0.pdf)
+
+[![Git](https://img.shields.io/badge/Git-Concluído-purple)](https://hermes.dio.me/certificates/JHKVQ87X.pdf)
+
+![Lógica](https://img.shields.io/badge/Lógica-Concluído-green)
+
+### 🏫 Digital Innovation One
 
 -----
 ![Thiago Sousa GitHub stats](https://github-readme-stats.vercel.app/api?username=Thiago2403&show_icons=true&theme=dark)
+
+
+
 
 <!--
 **Thiago2403/Thiago2403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
