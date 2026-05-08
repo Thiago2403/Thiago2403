@@ -1,9 +1,11 @@
 ## Sejam Bem-Vindos ao meu portfolio  
-<div text-align="center", width = "100">
 
- <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100" />
 
+<div align="center">
+  <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="400">
 </div>
+
+
 
 -----------
 👽 Olá! Eu sou o Thiago
