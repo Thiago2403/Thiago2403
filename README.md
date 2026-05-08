@@ -1,7 +1,7 @@
 ## Sejam Bem-Vindos ao meu portfolio  
 <div text-align="center", width = "100">
 
-!<[Darth Vader Ready](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+ <img src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif" width="100" />
 
 </div>
 
