@@ -1,10 +1,9 @@
 ## Sejam Bem-Vindos ao meu portfolio  
-<p align="center", width = "100">
+<div text-align="center", width = "100">
 
-![Darth Vader Ready](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
+!<[Darth Vader Ready](https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif)
 
-
-</p>
+</div>
 
 -----------
 👽 Olá! Eu sou o Thiago
